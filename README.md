@@ -1,0 +1,1 @@
+# Equa-o-Segundo-Grau-Gr-fico
