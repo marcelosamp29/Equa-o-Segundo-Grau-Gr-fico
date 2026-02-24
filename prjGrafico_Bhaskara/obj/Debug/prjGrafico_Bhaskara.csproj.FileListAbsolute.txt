@@ -1,0 +1,10 @@
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\bin\Debug\prjGrafico_Bhaskara.exe.config
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\bin\Debug\prjGrafico_Bhaskara.exe
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\bin\Debug\prjGrafico_Bhaskara.pdb
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.csproj.AssemblyReference.cache
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.Properties.Resources.resources
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.csproj.GenerateResource.cache
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.exe
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.pdb
+C:\Users\marcelo.teston\Desktop\Faculdade\prjGrafico_Bhaskara\prjGrafico_Bhaskara\obj\Debug\prjGrafico_Bhaskara.EqSegundoGrauIHM.resources
